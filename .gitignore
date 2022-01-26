@@ -2,3 +2,5 @@ config.js
 disc_config.json
 puppeteer/
 vox-cpk.pth.tar
+PY_BackEnd/first-order-model/result.mp4
+PY_BackEnd/first-order-model/vox-adv-cpk.pth.tar
